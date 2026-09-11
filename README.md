@@ -3,6 +3,10 @@
 CTF（Capture The Flag）のCrypto分野を勉強するために作成した
 Pythonの練習コードをまとめています。
 
+## Learning
+
+This repository is part of my CTF learning.
+
 ## Contents
 
 このリポジトリには、主に以下のような暗号・エンコードに関する
