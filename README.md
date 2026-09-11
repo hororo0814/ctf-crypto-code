@@ -1,6 +1,6 @@
 # CTF Crypto Practice
 
-CTF（Capture The Flag）のCrypto分野を勉強するために作成した
+CTF Cryptoの学習記録と練習コードを公開しています。
 Pythonの練習コードをまとめています。
 
 ## Learning
