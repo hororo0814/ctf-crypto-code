@@ -1,6 +1,7 @@
 # CTF Crypto Practice
 
 CTF Cryptoの学習記録と練習コードを公開しています。
+CTFのCrypto問題を解くための練習コードをまとめています。
 Pythonの練習コードをまとめています。
 
 ## Learning
