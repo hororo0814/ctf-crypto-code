@@ -12,7 +12,7 @@ Pythonの練習コードをまとめています。
 - XOR
 - Vigenere Cipher
 - RSA
-- UTF-8 / UTF-16
+- UTF-8 (encode/decode)
 - Hash
 
 ## Files
