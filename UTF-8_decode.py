@@ -1,3 +1,4 @@
+#decodeしたい暗号をnumberに入力する
 numbers = [
     227,
     129,
